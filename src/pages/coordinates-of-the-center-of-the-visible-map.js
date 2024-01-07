@@ -49,7 +49,7 @@ const MapWrapper = () => {
       className={"center-of-map"}
       center={center}
       zoom={18}
-      scrollWheelZoom={false}
+ 
     >
       <TileLayer {...tileLayer} />
 
